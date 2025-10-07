@@ -1,4 +1,4 @@
-# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+![2nd diagram Drawing ARUN_page-0001](https://github.com/user-attachments/assets/5204afe1-2fac-4c9c-b7d0-0d07ecc35fe8)# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
@@ -36,7 +36,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ ![2nd diagram Drawing ARUN_page-0001](https://github.com/user-attachments/assets/01fa6b49-c797-4af2-87ad-1f320f31c0e9)
+
  
  
- ## RESULT
+ ## RESULT!
+
  Thus the given sketch is drawn and drafted using fusion 360 tool.
